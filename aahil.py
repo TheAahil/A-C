@@ -109,8 +109,8 @@ jalan('\033[1;91m   ┈┈┈WASH YOUR HANDS   ')
 jalan("\033[1;91m   ┈┈┈PRAY TO ALLAH ")
 print "\033[1;91m♡───────────♡\033[1;96mLogin Red.Moon\033[1;95m♡──•◈•───╯♡"
 
-CorrectUsername = "RedMoonNew"
-CorrectPassword = "lovehacker"
+CorrectUsername = "rana"
+CorrectPassword = "rana"
 
 loop = 'true'
 while (loop == 'true'):
